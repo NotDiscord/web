@@ -1,0 +1,22 @@
+@font-face {
+	font-family: 'Uni Sans';
+	src: url(fnt/unisans-heavy.otf);
+	font-weight: bold;
+	font-weight: 600;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+    background-color: #8d7625;
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center 0%;  
+	color: #FFF;
+	text-decoration: none;
+	font-family: 'Uni Sans';
+	font-weight: 300;
+	font-size: 20pt;
+}
